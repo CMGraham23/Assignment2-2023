@@ -1,0 +1,85 @@
+        #section1{
+            background-color: blue;            
+            padding-bottom: 25px;
+        }
+        #heading1{ 
+
+            text-align:center;
+            margin-bottom: 5px;
+            text-decoration: none;
+        }
+        #heading1 a{            
+            text-decoration: none;
+        }
+
+       
+        
+        .sub-menu1 a{
+            color: blue;
+            text-align: left;                   
+            text-decoration: none;
+        }
+
+       
+
+        .sub-menu2 a{
+            color: black;
+            text-align: center;                            
+            text-decoration: none;
+        }
+
+        .section2 a{
+            text-align: center;
+            color: black;            
+        }
+
+
+
+        a{
+            color: rgb(240, 233, 233);
+            padding:4px;                  
+            text-decoration: none;
+        }
+
+        a:hover{
+            color: rgb(13, 187, 74);
+            border-radius: 3px;
+        }
+        #menu{
+            text-align: center;            
+        }
+
+        .fa {
+            padding: 20px;
+            font-size: 30px;
+            width: 50px;
+            text-align: center;
+            text-decoration: none;
+          }
+          
+          /* Add a hover effect if you want */
+          .fa:hover {
+            opacity: 0.7;
+          }
+          
+          /* Set a specific color for each brand */
+          
+          /* Facebook */
+          .fa-facebook {
+            background: #3B5998;
+            color: white;
+          }
+          
+          /* Twitter */
+          .fa-twitter {
+            background: #55ACEE;
+            color: white;
+          }
+        
+
+          #footer{ 
+background-color: rgb(13, 13, 78);
+            text-align:center;
+            margin-bottom: 5px;
+            text-decoration: none;
+        }
